@@ -7,12 +7,8 @@ public class ServerDAO extends TimerTask {
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("Running the Task");
 	}
 
-	public static void main(String args[])
-	{
-		
-	}
 	
 }
